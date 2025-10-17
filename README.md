@@ -15,11 +15,7 @@ It displays time in HH:MM:SS format and resets automatically after 23:59:59.
 4. Observe time output on the waveform.
 
 ## 📸 Output
-![Waveform Output](waveform.png)
-
-## ✨ Future Improvements
-- Alarm function  
-- FPGA implementation  
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/a652ea1c-c5ea-49b4-ad59-537e18a8e648" />
 
 ## 👩‍💻 Author
 **Aditi K**  
