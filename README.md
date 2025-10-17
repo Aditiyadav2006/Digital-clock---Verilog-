@@ -10,7 +10,7 @@ It displays time in HH:MM:SS format and resets automatically after 23:59:59.
 
 ## 🚀 How to Run
 1. Open the project folder in Xilinx ISE.  
-2. Add `clock.v` and `testbench.v`.  
+2. Add `digital_clock.v` and `tb_digital_clock.v`.  
 3. Run Behavioral Simulation.  
 4. Observe time output on the waveform.
 
