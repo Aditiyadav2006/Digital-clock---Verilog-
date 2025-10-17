@@ -44,8 +44,6 @@ Each counter rolls over when it reaches its limit:
 ---
 
 ## 🧮 Block Diagram
-pgsql
-Copy code
       +----------------------------+
       |        Digital Clock       |
       |----------------------------|
@@ -57,10 +55,6 @@ Copy code
        +--------+ +--------+ +--------+
        | Hours  | | Minutes| | Seconds|
        +--------+ +--------+ +--------+
-yaml
-Copy code
-
----
 
 ## 💻 Simulation Steps
 1. Open **Xilinx ISE / Vivado** or **VS Code** with Verilog extension.  
